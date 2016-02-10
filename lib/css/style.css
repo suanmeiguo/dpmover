@@ -4,10 +4,6 @@ body {
   padding-bottom: 20px;
 }
 
-div.jumbotron {
-  background-image: url("../../img/front-page-bar.jpg"); /* todo: resize image */;
-}
-
 img {
   max-width: 100%;
 }
